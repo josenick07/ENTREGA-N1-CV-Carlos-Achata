@@ -1,0 +1,32 @@
+body {
+    background-image: url("../Imagenes/imagen-para-fondo-dado-vueta.jpg");
+    
+  }
+
+
+
+ h1 {
+    font-size: 40px;
+    color:brown;
+}
+
+h2 {
+    color:brown;
+}
+
+/* Selector de Clase */
+.lista-de-habilidades {
+    color:cadetblue;
+}
+
+
+ .bordes-redondeados {
+    border-radius: 100px;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-style: double ;
+
+ }
+ 
+
+ 
